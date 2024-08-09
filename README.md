@@ -1,8 +1,8 @@
-# Book Management System - README
+# Book Stock Management System - README
 
 ## Overview
 
-The Book Management System is a command-line application that helps users manage book-related activities, including account creation, book reading, book recommendations, book donations, and book requests. The application also provides an administrative interface for managing the book collection and user information.
+The Book Stock Management System is a command-line application that helps users manage book-related activities, including account creation, book reading, book recommendations, book donations, and book requests. The application also provides an administrative interface for managing the book collection and user information.
 
 ## Features
 
